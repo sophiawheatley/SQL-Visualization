@@ -57,7 +57,7 @@ The prototypical implementation shows that this approach is possible.
 Future challenges involve:
 further developing and adapt the language to the likes of the users;
 make a robust underlying engine that produces beautiful (beautiful is inevitably subjective) plots based on SQL-Visualization query inputs.
-It remains a grand task.
+It remains a difficult task.
 
 ## Definitions:
 - **Declarative:**
