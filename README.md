@@ -68,3 +68,7 @@ Visual representation of data (scientific visualization)
 - **SQL syntax:**
 Structured Query Language, commonly used for managing data in Database Management Systems. SQL syntax refers to the grammartical structure of the SQL language.
 [wikipedia](https://en.wikipedia.org/wiki/SQL)
+
+## Authors:
+- Sophia Wheatley
+- Jonas Spenger
