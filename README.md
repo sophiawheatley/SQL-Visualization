@@ -70,5 +70,5 @@ Structured Query Language, commonly used for managing data in Database Managemen
 [wikipedia](https://en.wikipedia.org/wiki/SQL)
 
 ## Authors:
-- Sophia Wheatley
 - Jonas Spenger
+- Sophia Wheatley
